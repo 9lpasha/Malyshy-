@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Malyshy-/static/css/main.bd7ec87e.chunk.css",
+    "main.js": "/Malyshy-/static/js/main.5b07241f.chunk.js",
+    "main.js.map": "/Malyshy-/static/js/main.5b07241f.chunk.js.map",
+    "runtime-main.js": "/Malyshy-/static/js/runtime-main.581af534.js",
+    "runtime-main.js.map": "/Malyshy-/static/js/runtime-main.581af534.js.map",
+    "static/js/2.9d91bb38.chunk.js": "/Malyshy-/static/js/2.9d91bb38.chunk.js",
+    "static/js/2.9d91bb38.chunk.js.map": "/Malyshy-/static/js/2.9d91bb38.chunk.js.map",
+    "index.html": "/Malyshy-/index.html",
+    "static/css/main.bd7ec87e.chunk.css.map": "/Malyshy-/static/css/main.bd7ec87e.chunk.css.map",
+    "static/js/2.9d91bb38.chunk.js.LICENSE.txt": "/Malyshy-/static/js/2.9d91bb38.chunk.js.LICENSE.txt",
+    "static/media/Miyagi - Эндшпиль - Дама.5c4ceec5.mp3": "/Malyshy-/static/media/Miyagi - Эндшпиль - Дама.5c4ceec5.mp3",
+    "static/media/Miyagi - Эндшпиль - Сын.303b3414.mp3": "/Malyshy-/static/media/Miyagi - Эндшпиль - Сын.303b3414.mp3",
+    "static/media/Miyagi - Эндшпиль - Фея.23fbf8ca.mp3": "/Malyshy-/static/media/Miyagi - Эндшпиль - Фея.23fbf8ca.mp3",
+    "static/media/App.css": "/Malyshy-/static/media/fon2.6d1dd193.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.581af534.js",
+    "static/js/2.9d91bb38.chunk.js",
+    "static/css/main.bd7ec87e.chunk.css",
+    "static/js/main.5b07241f.chunk.js"
+  ]
+}
